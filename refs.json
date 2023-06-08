@@ -1,0 +1,76 @@
+[
+    {
+      "author": [
+        {
+          "family": "Smith",
+          "given": "J. G."
+        },
+        {
+          "family": "Weston",
+          "given": "H. K."
+        }
+      ],
+      "container-title": "J. Geophys. Res.",
+      "id": "smit54",
+      "issued": {
+        "date-parts": [
+          [
+            1954
+          ]
+        ]
+      },
+      "page": "14-15",
+      "title": "Nothing particular in this year’s history",
+      "type": "article-journal",
+      "volume": "2"
+    },
+    {
+      "author": [
+        {
+          "family": "Columbus",
+          "given": "Christopher"
+        }
+      ],
+      "id": "colu92",
+      "issued": {
+        "date-parts": [
+          [
+            1492
+          ]
+        ]
+      },
+      "publisher": "Hispanic Press",
+      "publisher-place": "Barcelona",
+      "title": "How I discovered America",
+      "type": "book"
+    },
+    {
+      "author": [
+        {
+          "family": "Green",
+          "given": "R. J."
+        },
+        {
+          "family": "Fred",
+          "given": "U. P."
+        },
+        {
+          "family": "Norbert",
+          "given": "W. P."
+        }
+      ],
+      "container-title": "Psych. Today",
+      "id": "gree00",
+      "issued": {
+        "date-parts": [
+          [
+            1900
+          ]
+        ]
+      },
+      "page": "345-678",
+      "title": "Things that go bump in the night",
+      "type": "article-journal",
+      "volume": "46"
+    }
+]
